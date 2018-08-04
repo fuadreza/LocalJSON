@@ -1,0 +1,16 @@
+{
+  "artikel": [
+    {
+      "id": 1,
+      "kategori": "pendahuluan",
+      "judul": "Konsep dan pendahuluan",
+      "konten": "Konten untuk isi dari konsep dan pendahuluan"
+    },
+    {
+      "id": 2,
+      "kategori": "pendahuluan",
+      "judul": "Tujuan",
+      "konten": "Konten untuk isi dari tujuan"
+    }
+  ]
+}
